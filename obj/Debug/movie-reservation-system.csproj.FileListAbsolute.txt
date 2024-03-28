@@ -1,0 +1,17 @@
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\bin\Debug\movie-reservation-system.exe.config
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\bin\Debug\movie-reservation-system.exe
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\bin\Debug\movie-reservation-system.pdb
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie-reservation-system.csproj.AssemblyReference.cache
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie-reservation-system.csproj.SuggestedBindingRedirects.cache
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UIL.MainScreenUI.FrmMainScreen.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UIL.MovieUI.FrmMovie.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UIL.MovieUI.FrmMovieContainer.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UIL.UserUI.FrmLogIn.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UIL.UserUI.FrmSignUp.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UIL.UserUI.FrmUserContainer.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.UserControls.CustomTextBox.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie_reservation_system.Properties.Resources.resources
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie-reservation-system.csproj.GenerateResource.cache
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie-reservation-system.csproj.CoreCompileInputs.cache
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie-reservation-system.exe
+D:\Mon Hoc HKI 2023-2024\He Quan Tri Co So Du Lieu\Final\movie-reservation-system\obj\Debug\movie-reservation-system.pdb

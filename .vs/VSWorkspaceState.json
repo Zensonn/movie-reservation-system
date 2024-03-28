@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DL",
+    "\\obj",
+    "\\Properties",
+    "\\Resources",
+    "\\UIL",
+    "\\UIL\\MainScreenUI",
+    "\\UIL\\MovieUI",
+    "\\UIL\\UserUI",
+    "\\UserControls"
+  ],
+  "SelectedNode": "\\DL\\DbConnection.cs",
+  "PreviewInSolutionExplorer": false
+}
